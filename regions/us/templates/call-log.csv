@@ -1,0 +1,2 @@
+date,time,type,caller_id,company_stated,live_or_prerecorded,offer,dnc_registered_since,over_31_days,internal_dnc_requested,evidence,entity,notes
+2026-11-20,14:05,call,(202) 555-0147,"""Example Solar"" (stated)",live,rooftop solar quote,2026-09-01,yes,yes 2026-11-20,call history screenshot,unknown,EXAMPLE ROW - delete
