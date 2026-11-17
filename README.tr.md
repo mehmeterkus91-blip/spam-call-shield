@@ -2,9 +2,15 @@
 
 [English](README.md) · **Türkçe**
 
-**İstenmeyen satış aramaları ve SMS'lerle yasal yoldan mücadele etmek için yapay zekâ ajan paketi.**
+**İstenmeyen satış aramalarından bıktın mı?** Bu repoda ChatGPT, Claude ya da Gemini'ye yapıştıracağın hazır talimatlar var. Yapay zekâ seni adım adım yönlendirir: aramaları kapatırsın, gelen her aramayı kaydeder, arayanın kim olduğunu bulur ve şikâyet dilekçeni hazırlar. Kanunu senin öğrenmen gerekmez.
 
-Claude, ChatGPT ya da Gemini'yi şu işlerde sana yardım eden dikkatli bir asistana dönüştürür:
+**Kod yok, kurulum yok, ücretsiz.** 🇹🇷 Türkiye ve 🇺🇸 ABD için.
+
+*Örnek:* "Bugün 14:05'te 0 (5XX) XXX XX 01 aradı, kasko satmaya çalıştı." → yapay zekâ kaydeder, şikâyet edilebilir olup olmadığını söyler ve sıradaki adımı gösterir.
+
+## Ne yapar
+
+Yapay zekâ, şu işlerde sana yardım eden dikkatli bir asistana dönüşür:
 
 1. Ülkenin resmî sisteminde ticari aramaları **reddetmek**
 2. Yine de gelen her istenmeyen aramayı ve SMS'i, şikâyette işe yarayacak biçimde **kaydetmek**

@@ -2,9 +2,15 @@
 
 **English** · [Türkçe](README.tr.md)
 
-**An AI-agent kit for fighting unwanted sales calls and texts, the legal way.**
+**Getting spam sales calls?** This repo gives you ready-made instructions to paste into ChatGPT, Claude or Gemini. The AI then walks you through opting out, logs every unwanted call, finds out who's behind it, and drafts your complaint, so you don't have to learn the law yourself.
 
-Turn Claude, ChatGPT or Gemini into a careful assistant that helps you:
+**No coding. No install. Free.** Works in 🇺🇸 the US and 🇹🇷 Türkiye.
+
+*Example:* "They called again at 2:05 pm from (202) 555-0147 about solar panels." → the AI logs it, checks whether the legal threshold is met, and tells you your next step.
+
+## What it does
+
+The AI becomes a careful assistant that helps you:
 
 1. **Opt out** of telemarketing in your country's official system.
 2. **Log** every unwanted call or text that still arrives, in a format authorities and courts accept.
