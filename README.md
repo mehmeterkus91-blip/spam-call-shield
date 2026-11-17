@@ -1,5 +1,7 @@
 # spam-call-shield
 
+**English** · [Türkçe](README.tr.md)
+
 **An AI-agent kit for fighting unwanted sales calls and texts, the legal way.**
 
 Turn Claude, ChatGPT or Gemini into a careful assistant that helps you:
@@ -12,8 +14,6 @@ Turn Claude, ChatGPT or Gemini into a careful assistant that helps you:
 The agent never sends, files or calls anything on its own. You stay in control of every step.
 
 > Inspired by a viral post where someone asked an AI agent to register their number on the US Do Not Call list and track violations. The agent itself admitted the hard limits: spoofed VoIP numbers can't be traced without a subpoena, and it wouldn't file anything without permission. This kit is built around that honesty.
-
-🇹🇷 **Türkçe:** [README.tr.md](README.tr.md)
 
 ## Pick your region
 

@@ -1,5 +1,7 @@
 # spam-call-shield
 
+[English](README.md) · **Türkçe**
+
 **İstenmeyen satış aramaları ve SMS'lerle yasal yoldan mücadele etmek için yapay zekâ ajan paketi.**
 
 Claude, ChatGPT ya da Gemini'yi şu işlerde sana yardım eden dikkatli bir asistana dönüştürür:
